@@ -1,0 +1,119 @@
+{
+  "serviceOne": [
+    {
+      "img": "/images/icons/service-icon-01.svg",
+      "title": "Mai rapid",
+      "desc": "el mai rapid serviciu juridic online, ideal pentru a evita cheltuielile și programările.  "
+    },
+    {
+      "img": "/images/icons/service-icon-02.svg",
+      "title": "Rentabil",
+      "desc": "Uită de costurile ridicate ale pieței juridice tradiționale. Avocatul bazat pe inteligență artificială este prietenos cu bugetul."
+    },
+    {
+      "img": "/images/icons/service-icon-03.svg",
+      "title": "Suport 24/7",
+      "desc": "Echipa noastră de suport pentru clienți este întotdeauna disponibilă pentru a te ajuta cu orice întrebări despre platformă."
+    },
+
+    {
+      "img": "/images/icons/service-icon-02.svg",
+      "title": "Privat",
+      "desc": "Păstrăm cu strictețe confidențialitatea, asigurându-ne că conversațiile utilizatorilor  nu rămân stocate."
+    }
+  ],
+  "serviceTwo": [
+    {
+      "img": "/images/light/service/group.png",
+      "imgLight": "/images/light/service/group.png",
+      "title": "AI pentru Consumatorii Legali",
+      "desc": "Facem legea mai accesibilă, ajutându-te să înțelegi termeni complicați și să îți cunoști drepturile."
+    },
+    {
+      "img": "/images/light/service/court.png",
+      "imgLight": "/images/light/service/court.png",
+      "title": "AI pentru Cabinete de Avocatură",
+      "desc": "Simplificăm procesele și creștem eficiența, revoluționând modul în care operează cabinetele de avocatură."
+    },
+    {
+      "img": "/images/light/service/law.png",
+      "imgLight": "/images/light/service/law.png",
+      "title": "AI pentru Avocați",
+      "desc": "Lăsați-ne pe noi să ne ocupăm de cercetare și documente în timp ce dumneavoastră dezvoltați relațiile cu clienții."
+    },
+
+    {
+      "img": "/images/light/service/education.png",
+      "imgLight": "/images/light/service/education.png",
+      "title": "AI pentru Studenții la Drept",
+      "desc": "Am creat un instrument de învățare perfect. Ajută studenții să se pregătească pentru o carieră în domeniul juridic."
+    }
+  ],
+  "serviceThree": [
+    {
+      "img": "/images/icons/fast.png",
+      "title": "Mai rapid",
+      "desc": "Cel mai rapid serviciu juridic online, ideal pentru a evita cheltuielile și programările.  "
+    },
+    {
+      "img": "/images/icons/cost.png",
+      "title": "Rentabil",
+      "desc": "Uită de costurile ridicate ale pieței juridice tradiționale. Avocatul bazat pe inteligență artificială este prietenos cu bugetul."
+    },
+    {
+      "img": "/images/icons/support.png",
+      "title": "Suport 24/7",
+      "desc": "Echipa noastră de suport pentru clienți este întotdeauna disponibilă pentru a te ajuta cu orice întrebări despre platformă."
+    },
+
+    {
+      "img": "/images/icons/privacy.png",
+      "title": "Privat",
+      "desc": "Păstrăm cu strictețe confidențialitatea, asigurându-ne că conversațiile utilizatorilor  nu rămân stocate."
+    }
+  ],
+  "serviceFour": [
+    {
+      "img": "/images/icons/fast.png",
+      "title": "Scrisoare de Contestare a Facturii Servicii",
+      "desc": "Contestă o factură pe care o consideri nejustificată, cerând botului să redacteze o scrisoare pentru solicitarea unui credit."
+    },
+    {
+      "img": "/images/icons/cost.png",
+      "title": "Rezilierea unui Contract de Servicii",
+      "desc": "Pentru a încheia un contract cu un furnizor de servicii, utilizatorii pot folosi JuridicAI pentru a redacta o scrisoare de reziliere care respectă termenii contractuali și protejează interesele lor."
+    },
+    {
+      "img": "/images/icons/support.png",
+      "title": "Verificarea Conformității cu Reglementările de Mediu",
+      "desc": "Utilizatorii pot folosi JuridicAI pentru a verifica dacă afacerea lor respectă reglementă"
+    },
+
+    {
+      "img": "/images/icons/privacy.png",
+      "title": "Elaborarea Politicii de Confidențialitate pentru Site-ul Web",
+      "desc": "Pentru lansarea unui site web, JuridicAI poate crea o politică de confidențialitate care să respecte reglementările legale și să protejeze datele utilizatorilor, fără necesitatea consultanței juridice."
+    },
+    {
+      "img": "/images/icons/privacy.png",
+      "title": "Întocmirea unui Contract de Închiriere",
+      "desc": "Folosește JuridicAI pentru a redacta un contract de închiriere care să includă toate clauzele necesare și să protejeze drepturile sale."
+    },
+    {
+      "img": "/images/icons/privacy.png",
+      "title": "Pregătirea unui Testament",
+      "desc": "JuridicAI poate fi folosit pentru a crea sau actualiza un testament, asigurându-se că dorințele sunt reflectate corect și că bunurile sunt distribuite conform intențiilor."
+    },
+
+    {
+      "img": "/images/icons/privacy.png",
+      "title": "Crearea unui Acord de Confidențialitate",
+      "desc": "Utilizatorii care doresc să împărtășească informații sensibile cu parteneri de afaceri pot folosi JuridicAI pentru a crea un acord de confidențialitate, protejând informațiile comerciale fără a apela la un avocat."
+    },
+    {
+      "img": "/images/icons/privacy.png",
+      "title": "Contestarea Amenzilor pentru Parcare",
+      "desc": "JuridicAI poate ajuta utilizatorii să redacteze o contestație a unei amenzi de parcare pe care o consideră nejustificată, simplificând procesul și economisind timp."
+    }
+  ]
+}

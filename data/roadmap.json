@@ -1,0 +1,77 @@
+{
+  "roadmap": [
+    {
+      "heading": "Planificare și Design",
+      "date": "25 APR, 2024",
+      "isCheck": true,
+      "isLoading": false,
+      "isBorader": true,
+      "title": "",
+      "desc": "Identificăm obiectivele aplicației Juridic AI și funcționalitățile necesare pentru a răspunde eficient la întrebările legale pe baza documentelor încărcate.",
+      "list": []
+    },
+    {
+      "heading": "Alegere Platformei",
+      "date": "25 APR, 2024",
+      "isCheck": true,
+      "isLoading": false,
+      "isBorader": true,
+      "title": "",
+      "desc": "Cercetăm și alegem platformele și tehnologiile potrivite pentru dezvoltarea aplicației, inclusiv framework-uri și servicii AI."
+    },
+    {
+      "heading": "Construirea Aplicației",
+      "date": "25 APR, 2024",
+      "isCheck": false,
+      "isLoading": true,
+      "isBorader": true,
+      "title": "",
+      "desc": "Analizăm aplicațiile similare pentru a înțelege tendințele pieței și pentru a identifica oportunități de îmbunătățire și diferențiere."
+    },
+    {
+      "heading": "Lansarea Aplicație",
+      "date": "25 APR, 2024",
+      "isCheck": false,
+      "isLoading": true,
+      "isBorader": true,
+      "title": "",
+      "desc": "Lansăm aplicația și colectăm feedback de la utilizatori pentru a planifica actualizări regulate, îmbunătățiri și noi funcționalități."
+    },
+    {
+      "heading": "Actualizarea Aplicației",
+      "date": "25 APR, 2024",
+      "isCheck": false,
+      "isLoading": true,
+      "isBorader": true,
+      "title": "",
+      "desc": "Remediem erorile critice și problemele raportate de utilizatori, asigurând funcționarea optimă a aplicației."
+    },
+    {
+      "heading": "Antrenarea Modelului AI",
+      "date": "25 APR, 2024",
+      "isCheck": false,
+      "isLoading": false,
+      "isBorader": true,
+      "title": "",
+      "desc": "Alegem sau construim un model NLP adecvat pentru procesarea limbajului natural. Opțiuni populare includ utilizarea rețelelor neurale de tip LSTM sau arhitecturi de tip transformer."
+    },
+    {
+      "heading": "Colectarea și Etichetarea Datelor",
+      "date": "25 APR, 2024",
+      "isCheck": false,
+      "isLoading": false,
+      "isBorader": true,
+      "title": "",
+      "desc": "Adunăm un set diversificat de intrări de la utilizatori pe care aplicația le va întâlni frecvent, etichetând datele pentru antrenarea corectă a modelului AI."
+    },
+    {
+      "heading": "Adăugarea de Funcționalități Noi",
+      "date": "2026",
+      "isCheck": false,
+      "isLoading": false,
+      "isBorader": false,
+      "title": "",
+      "desc": "Permitem aplicației să gestioneze și să răspundă la intrări multimedia, cum ar fi imagini, videoclipuri sau clipuri audio, pentru a extinde capacitățile și utilitatea acesteia."
+    }
+  ]
+}

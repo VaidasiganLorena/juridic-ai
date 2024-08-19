@@ -1,0 +1,22 @@
+{
+  "nav": [
+    {
+      "link": "/home",
+      "isIcon": false,
+      "isMenu": false,
+      "text": "Acasă"
+    },
+    {
+      "link": "/aboutUs",
+      "isIcon": false,
+      "isMenu": false,
+      "text": "Despre noi"
+    },
+    {
+      "link": "/roadmap",
+      "isIcon": false,
+      "isMenu": false,
+      "text": "Roadmap"
+    }
+  ]
+}

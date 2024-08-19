@@ -1,0 +1,66 @@
+.rainbow-container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #16181e;
+  border-radius: 20px;
+  padding: 2vw 25px 0 25px;
+  height: 100%;
+  z-index: 1;
+}
+.rainbow-container .service-four {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #16181e;
+  border-radius: 20px;
+  padding: 0px;
+  height: 100%;
+  z-index: 1;
+}
+
+.rainbow-container.light {
+  background: #f4f1ff00;
+}
+
+.rainbow-container::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: 20px;
+  padding: 2px;
+  background: linear-gradient(to bottom, #805af5, #cd99ff);
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: destination-out;
+  mask-composite: exclude;
+  z-index: -1;
+}
+.rainbow-container.service-four::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: 20px;
+  padding: 2px;
+  background: linear-gradient(
+    to bottom,
+    #805af5,
+    #ce99ff00,
+    #805af5,
+    #ce99ff00,
+    #805af5,
+    #ce99ff00,
+    #805af5
+  );
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: destination-out;
+  mask-composite: exclude;
+  z-index: -1;
+}

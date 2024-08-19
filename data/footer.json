@@ -1,0 +1,59 @@
+{
+  "footer": [
+    {
+      "links": [
+        {
+          "title": "Meniu",
+          "innerItem": [
+            {
+              "link": "/",
+              "text": "Acasă"
+            },
+            {
+              "link": "/aboutUs",
+              "text": "Despre noi"
+            },
+            {
+              "link": "/roadmap",
+              "text": "Roadmap"
+            }
+          ]
+        }
+      ],
+      "services": [
+        {
+          "title": "Services",
+          "innerItem": [
+            {
+              "link": "/image-generator",
+              "text": "Image Generator"
+            },
+            {
+              "link": "/vedio-generator",
+              "text": "Video Generator"
+            },
+            {
+              "link": "/text-generator",
+              "text": "Text Generator"
+            },
+            {
+              "link": "/code-generator",
+              "text": "Code Generator"
+            },
+            {
+              "link": "#",
+              "text": "Education Feedback"
+            }
+          ]
+        }
+      ],
+      "contact": [
+        {
+          "location": "birou HQE205, corp E, Str Gheorghe Lazar, nr 9, Timișoara",
+          "mail": "admin@evosa.ro",
+          "number": "0745 193 485"
+        }
+      ]
+    }
+  ]
+}

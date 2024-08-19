@@ -1,0 +1,116 @@
+{
+  "TabStyleOne": [
+    {
+      "title": "Consultanță cu avocatul virtual",
+      "img": "/images/justice.png",
+      "menuId": "video-generator",
+      "text": "Avocat AI",
+      "target": "video-generate",
+      "iconImg": "/images/icons/justice.png",
+      "isSelect": false,
+      "subItem": [
+        {
+          "text": "Accesează informații și precedențe juridice instantaneu."
+        },
+        {
+          "text": "Înțelege simplu aspectele complexe ale legislației."
+        },
+        {
+          "text": "Obține sfaturi personalizate pe baza legislației actuale."
+        },
+        {
+          "text": "Beneficiezi de suport juridic constant, oricând ai nevoie."
+        }
+      ]
+    },
+    {
+      "title": "Manipulare documente cu AI",
+      "img": "/images/document-ai.png",
+      "menuId": "audio-generator",
+      "text": "Documente cu AI",
+      "target": "audio-generate",
+      "iconImg": "/images/icons/scanner.png",
+      "isSelect": true,
+      "subItem": [
+        {
+          "text": "Rezumă contractele și acordurile complexe."
+        },
+        {
+          "text": "Traduce precis documentele în diferite limbi."
+        },
+        {
+          "text": "Identifică și interpretează clauzele importante."
+        },
+        {
+          "text": "Recunoaște și sugerează modificări pentru clauzele problematice."
+        },
+        {
+          "text": "Oferă răspunsuri și recomandări legale instant."
+        }
+      ]
+    },
+
+    {
+      "title": "Perormanță accelerată pe Web",
+      "img": "/images/performance.png",
+      "menuId": "code-generator",
+      "text": "Performanță digitală",
+      "target": "code-generate",
+      "iconImg": "/images/icons/internet.png",
+      "isSelect": false,
+      "subItem": [
+        {
+          "text": "Accesează și procesează rapid informații de pe internet."
+        },
+        {
+          "text": "Finalizează sarcini complexe de analiză într-un timp extrem de scurt. "
+        },
+        {
+          "text": "Economisește timp prețios cu ajutorul tehnologiei avansate bazate pe internet."
+        }
+      ]
+    }
+  ],
+  "advanceTab": [
+    {
+      "tabId": "home",
+      "target": "home-tab",
+      "isSelect": true,
+      "menuText": "Accesezi Juridic AI",
+      "img": "/images/www.png",
+      "subTitle": "Cum funcționează",
+      "title": "Accesezi Juridic AI",
+      "desc": "Deschide aplicația web Juridic AI și conectează-te rapid folosind contul tău Google sau Facebook. Este simplu și sigur, asigurându-ți acces imediat la toate funcțiile aplicației web."
+    },
+    {
+      "tabId": "profile",
+      "target": "profile-tab",
+      "isSelect": false,
+      "menuText": "Fotografiază sau Încarcă",
+      "img": "/images/upload.png",
+      "subTitle": "Cum funcționează",
+      "title": "Fotografiază sau Încarcă",
+      "desc": "Capturează o imagine a contractului tău folosind camera telefonului sau încarcă fișierul direct din dispozitivul tău. Juridic AI acceptă diverse formate pentru a-ți ușura procesul."
+    },
+    {
+      "tabId": "contact",
+      "target": "contact-tab",
+      "isSelect": false,
+      "menuText": "Întrebările Tale",
+      "img": "/images/chat-bot.png",
+      "subTitle": "Cum funcționează",
+      "title": "Pune Întrebările Tale",
+      "desc": "Introdu întrebările și aspectele specifice pe care vrei să le clarifici în legătură cu contractul. Poți solicita detalii despre clauze, termeni legali sau orice altă nelămurire."
+    },
+    {
+      "tabId": "contact",
+      "target": "contact-tab",
+      "isSelect": false,
+      "menuText": "Răspunsuri Instant",
+      "img": "/images/chatting.png",
+      "subTitle": "Cum funcționează",
+      "title": "Primești Răspunsuri Clare",
+      "desc": "Primește rapid răspunsuri precise și detaliate, oferite de inteligența artificială. Analizează informațiile primite pentru a lua decizia cea mai potrivită și pentru a te asigura că documentele tale sunt în ordine."
+    }
+  ]
+}
