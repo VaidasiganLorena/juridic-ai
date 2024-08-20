@@ -72,7 +72,8 @@ const UtilizeBody = ({}) => {
                 Evosa este creatorul <b> JuridicAI </b>, noi suntem o firmă de
                 dezvoltare software cu o viziune clară. Să dezvoltăm viitorul
                 digital al afacerii tale cu experiență și inovație la fiecare
-                pas! onalizate și eficiente, adaptate nevoilor tale specifice.
+                pas personalizate și eficiente, adaptate nevoilor tale
+                specifice.
               </p>
               <p className="b1">
                 {" "}
@@ -80,7 +81,7 @@ const UtilizeBody = ({}) => {
                 tehnologie. Ne mândrim cu crearea <b> JuridicAI </b>, un avocat
                 virtual inovator care simplifică și eficientizează procesele
                 juridice. Echipa noastră, formată din experți în tehnologie , se
-                străduiește să ofere soluții pers
+                străduiește să ofere soluții personalizate.
               </p>
             </div>
           </div>
