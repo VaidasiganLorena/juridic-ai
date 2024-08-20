@@ -14,7 +14,41 @@ const AdvanceTab = () => {
   return (
     <>
       <div className="row row--30">
-        <div className="col-lg-12">
+        <div className="col-lg-12 mb--60">
+          <div className="advance-tab-button advance-tab-button-1 right-top">
+            <ul
+              className="nav nav-tabs tab-button-list"
+              id="myTab-3"
+              role="tablist"
+            >
+              {AdvanceTabData &&
+                AdvanceTabData.advanceTab.map((list, i) => (
+                  <li className="col-lg-3 nav-item" role="presentation" key={i}>
+                    <a
+                      href="#"
+                      className={`nav-link tab-button ${
+                        list.isSelect ? "active" : ""
+                      }`}
+                      id={`${list.target}-${i + 1}`}
+                      data-bs-toggle="tab"
+                      data-bs-target={`#${list.tabId}-${i + 1}`}
+                      role="tab"
+                      aria-controls={`${list.tabId}-${i + 1}`}
+                      aria-selected={list.isSelect}
+                    >
+                      <div className="tab">
+                        <div className="count-text">
+                          <span className="theme-gradient">0{i + 1}</span>
+                        </div>
+                        <h4 className="title">{list.menuText} </h4>
+                      </div>
+                    </a>
+                  </li>
+                ))}
+            </ul>
+          </div>
+        </div>
+        <div className="col-lg-12 mt--60">
           <div className="tab-content">
             {AdvanceTabData &&
               AdvanceTabData.advanceTab.map((data, index) => (
@@ -74,40 +108,6 @@ const AdvanceTab = () => {
                   </div>
                 </div>
               ))}
-          </div>
-        </div>
-        <div className="col-lg-12 mt--60">
-          <div className="advance-tab-button advance-tab-button-1 right-top">
-            <ul
-              className="nav nav-tabs tab-button-list"
-              id="myTab-3"
-              role="tablist"
-            >
-              {AdvanceTabData &&
-                AdvanceTabData.advanceTab.map((list, i) => (
-                  <li className="col-lg-3 nav-item" role="presentation" key={i}>
-                    <a
-                      href="#"
-                      className={`nav-link tab-button ${
-                        list.isSelect ? "active" : ""
-                      }`}
-                      id={`${list.target}-${i + 1}`}
-                      data-bs-toggle="tab"
-                      data-bs-target={`#${list.tabId}-${i + 1}`}
-                      role="tab"
-                      aria-controls={`${list.tabId}-${i + 1}`}
-                      aria-selected={list.isSelect}
-                    >
-                      <div className="tab">
-                        <div className="count-text">
-                          <span className="theme-gradient">0{i + 1}</span>
-                        </div>
-                        <h4 className="title">{list.menuText} </h4>
-                      </div>
-                    </a>
-                  </li>
-                ))}
-            </ul>
           </div>
         </div>
       </div>
